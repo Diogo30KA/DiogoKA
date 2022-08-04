@@ -11,7 +11,7 @@
 - Inglês avançado / Advanced English 🇺🇸
 
 ## Formação / Formation 🎓
-- Cursando Ensino Médio e Curso Técnico em Informática na SATC / Studying at the High School and Technical Course in Computer Science at SATC 
+- Cursando Ensino Médio e Curso Técnico em Informática na SATC / Studying at the High School and Technical Course in Information Technology at SATC 
 
 ## Linguagens de programação / Programming languages 💻
 - Java
